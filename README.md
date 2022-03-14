@@ -1,2 +1,2 @@
-# shopUpDraft
-source code
+# ShopUp
+
