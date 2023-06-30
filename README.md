@@ -7,4 +7,4 @@ shops so that they can improve their business.
 
 I worked in fronted side and created major pages like profile page and product list page etc
 
-We have not hosted this website as we have made this website for learning purpose if you want you can use our code for any queries you can mail me.
+We have not launched this application as we have made this app for learning purpose if you want you can use our code for any queries you can mail me.
